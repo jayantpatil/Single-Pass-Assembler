@@ -1,6 +1,6 @@
 %{
 #include<stdio.h>
-#include"assem.h"
+#include"assembler.h"
 #define LIT 0
 #define SYMB 1
 extern FILE * yyin;
