@@ -1,7 +1,7 @@
 %{
 
  #include "y.tab.h"
- #include "assem.h"
+ #include "assembler.h"
 %}
 
 letter[a-zA-Z]
